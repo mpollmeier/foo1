@@ -2,5 +2,5 @@ package foo1
 
 object Example extends App {
   println("Hello")
-  def foo = 42
+  def bar = 42
 }
