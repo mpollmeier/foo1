@@ -5,3 +5,4 @@ libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % "3.0.3" % Test
 )
 scalacOptions ++= Seq("-deprecation", "-feature")
+
